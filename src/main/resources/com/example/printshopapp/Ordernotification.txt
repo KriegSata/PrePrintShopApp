@@ -1,0 +1,2 @@
+2025-05-29T20:42:06.916805|Order placed|Your order has been placed and is pending. Order details: kaleb, 1 pages, 1 copies, Total: ₱4.00|kaleb@gmail.com
+2025-06-13T21:15:51.056609200|Order placed|Your order has been placed and is pending. Order details: kaleb, 1 pages, 1 copies, Total: ₱2.50|kaleb@gmail.com

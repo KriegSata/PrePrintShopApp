@@ -1,0 +1,8 @@
+2,kaleb,0123456,kaleb@gmail.com,0123456789,BSIT,1-2A,kaleb,kaleb,true
+3,kaleb,0234561,kaleb@gmail.com,0234567891,BSIT,1-1B,kaleb2,kaleb2,true
+4,kaleb,1234567,kaleb@gmail.com,0123456789,BSIT,1-1A,kaleb3,kaleb3,true
+9,kil,1234567,123123@gmail.com,0123456789,asdl,a4-1,kilpogi,kilpogi,true
+13,BSITstud,3165504,BSITstud@gmail.com,9876521832,BSIT,1-2A,bsitstud,bsitstud,true
+14,Michael Angelo,1762432,michaelangelo@ctu.edu.ph,9826416325,BSIT,1-2,michael,michael,true
+17,kiloks,1234567,kiloks@email.com,0123456789,inter,pork,kiloks,retarded,true
+16,kiloks,1234567,kiloks@gmail.com,0123456789,SILOS,LV5,chaelmail,retarded,true

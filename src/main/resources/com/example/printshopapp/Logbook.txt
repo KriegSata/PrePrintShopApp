@@ -1,0 +1,94 @@
+2025-05-29 17:34:06 - Michael Angelo: Logged in successfully
+2025-05-29 17:38:52 - Admin1: Logged in successfully
+2025-05-29 17:38:52 - Admin: Opened Admin Dashboard window
+2025-05-29 17:42:31 - Staff 1: Logged in successfully
+2025-05-29 17:42:52 - Admin1: Logged in successfully
+2025-05-29 17:42:52 - Admin: Opened Admin Dashboard window
+2025-05-29 17:47:33 - Admin1: Logged in successfully
+2025-05-29 17:47:34 - Admin: Opened Admin Dashboard window
+2025-05-29 17:48:02 - Michael Angelo: Logged in successfully
+2025-05-29 17:51:13 - Admin1: Logged in successfully
+2025-05-29 17:51:13 - Admin: Opened Admin Dashboard window
+2025-05-29 17:51:25 - Admin: Opened Admin Dashboard window
+2025-05-29 17:51:34 - Michael Angelo: Logged in successfully
+2025-05-29 18:16:25 - Admin1: Logged in successfully
+2025-05-29 18:16:25 - Admin: Opened Admin Dashboard window
+2025-05-29 18:16:41 - Michael Angelo: Logged in successfully
+2025-05-29 18:23:41 - Admin1: Logged in successfully
+2025-05-29 18:23:41 - Admin: Opened Admin Dashboard window
+2025-05-29 18:30:31 - chaelmail: Failed login attempt
+2025-05-29 18:30:45 - Admin1: Logged in successfully
+2025-05-29 18:30:45 - Admin: Opened Admin Dashboard window
+2025-05-29 18:36:22 - Admin1: Logged in successfully
+2025-05-29 18:36:23 - Admin: Opened Admin Dashboard window
+2025-05-29 18:37:14 - Michael Angelo: Logged in successfully
+2025-05-29 18:37:26 - kaleb: Logged in successfully
+2025-05-29 18:43:21 - kiloks: Failed login attempt
+2025-05-29 18:43:31 - Admin1: Logged in successfully
+2025-05-29 18:43:31 - Admin: Opened Admin Dashboard window
+2025-05-29 18:46:07 - Admin1: Logged in successfully
+2025-05-29 18:46:07 - Admin: Opened Admin Dashboard window
+2025-05-29 18:46:37 - admin1: Failed login attempt
+2025-05-29 18:46:48 - admin1: Failed login attempt
+2025-05-29 18:46:52 - admin1: Failed login attempt
+2025-05-29 18:46:56 - Admin1: Logged in successfully
+2025-05-29 18:46:56 - Admin: Opened Admin Dashboard window
+2025-05-29 18:47:09 - kiloks: Logged in successfully
+2025-05-29 18:53:47 - Admin1: Logged in successfully
+2025-05-29 18:53:47 - Admin: Opened Admin Dashboard window
+2025-05-29 18:53:56 - kaleb: Logged in successfully
+2025-05-29 18:57:20 - admin1: Failed login attempt
+2025-05-29 18:57:27 - Admin1: Logged in successfully
+2025-05-29 18:57:28 - Admin: Opened Admin Dashboard window
+2025-05-29 19:01:29 - kaleb: Logged in successfully
+2025-05-29 19:12:58 - Michael Angelo: Logged in successfully
+2025-05-29 19:15:50 - kaleb1: Failed login attempt
+2025-05-29 19:15:52 - kaleb1: Failed login attempt
+2025-05-29 19:15:57 - kaleb1: Failed login attempt
+2025-05-29 19:16:06 - kaleb: Logged in successfully
+2025-05-29 19:20:02 - Admin1: Logged in successfully
+2025-05-29 19:20:02 - Admin: Opened Admin Dashboard window
+2025-05-29 19:24:27 - kaleb: Logged in successfully
+2025-05-29 19:29:48 - Admin1: Logged in successfully
+2025-05-29 19:29:48 - Admin: Opened Admin Dashboard window
+2025-05-29 19:29:58 - kaleb: Logged in successfully
+2025-05-29 19:33:34 - Admin1: Logged in successfully
+2025-05-29 19:33:34 - Admin: Opened Admin Dashboard window
+2025-05-29 19:53:35 - System: Assigned order iHUNxB to staff 10
+2025-05-29 19:53:50 - kaleb: Logged in successfully
+2025-05-29 19:57:52 - Admin1: Logged in successfully
+2025-05-29 19:57:53 - Admin: Opened Admin Dashboard window
+2025-05-29 19:57:59 - kaleb: Logged in successfully
+2025-05-29 20:12:01 - kaleb: Logged in successfully
+2025-05-29 20:23:57 - kaleb: Logged in successfully
+2025-05-29 20:25:35 - Admin1: Logged in successfully
+2025-05-29 20:25:35 - Admin: Opened Admin Dashboard window
+2025-05-29 20:41:33 - kaleb: Logged in successfully
+2025-05-29 20:42:26 - Admin1: Logged in successfully
+2025-05-29 20:42:26 - Admin: Opened Admin Dashboard window
+2025-05-29 20:43:49 - kaleb: Logged in successfully
+2025-06-13 20:48:25 - kaleb: Failed login attempt
+2025-06-13 20:49:03 - kil: Logged in successfully
+2025-06-13 20:54:25 - kaleb: Logged in successfully
+2025-06-13 20:54:39 - admin1: Failed login attempt
+2025-06-13 20:54:49 - Admin1: Logged in successfully
+2025-06-13 20:54:49 - Admin: Opened Admin Dashboard window
+2025-06-13 21:14:10 - Admin1: Logged in successfully
+2025-06-13 21:14:10 - Admin: Opened Admin Dashboard window
+2025-06-13 21:15:22 - kaleb: Logged in successfully
+2025-06-13 21:15:59 - Admin1: Logged in successfully
+2025-06-13 21:15:59 - Admin: Opened Admin Dashboard window
+2025-06-13 21:20:05 - Admin1: Logged in successfully
+2025-06-13 21:20:05 - Admin: Opened Admin Dashboard window
+2025-06-13 21:37:46 - Admin1: Logged in successfully
+2025-06-13 21:37:46 - Admin: Opened Admin Dashboard window
+2025-06-13 21:46:29 - Admin1: Logged in successfully
+2025-06-13 21:46:29 - Admin: Opened Admin Dashboard window
+2025-06-16 20:24:56 - Admin1: Logged in successfully
+2025-06-16 20:24:56 - Admin: Opened Admin Dashboard window
+2025-06-16 20:38:47 - adimn1: Failed login attempt
+2025-06-16 20:38:51 - adimn1: Failed login attempt
+2025-06-16 20:38:59 - Admin1: Logged in successfully
+2025-06-16 20:38:59 - Admin: Opened Admin Dashboard window
+2025-06-16 20:50:06 - Admin1: Logged in successfully
+2025-06-16 20:50:06 - Admin: Opened Admin Dashboard window

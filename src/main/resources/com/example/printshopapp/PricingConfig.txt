@@ -1,0 +1,11 @@
+# PricingConfig.txt
+a4_black_white=4.0
+a4_colored=5.5
+short_black_white=3.0
+short_colored=5.0
+long_black_white=5.0
+long_colored=8.0
+thesis=-1.0
+standard=0.0
+premium=2.0
+ultra_premium=4.0
